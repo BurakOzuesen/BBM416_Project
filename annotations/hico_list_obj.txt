@@ -1,5 +1,3 @@
-id   object        
--------------------
 001  airplane      
 002  apple         
 003  backpack      
