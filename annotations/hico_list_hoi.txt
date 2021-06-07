@@ -1,5 +1,3 @@
-id   object          verb          
------------------------------------
 001  airplane        board         
 002  airplane        direct        
 003  airplane        exit          
